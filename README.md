@@ -2,7 +2,7 @@
 <a href="https://pstnv-live-text.glitch.me/"> https://pstnv-live-text.glitch.me </a>
 
 <div align="center">
-  <img src="https://cdn.glitch.global/ece60b40-3830-4d48-bb12-fa238aabf422/picPreview_15.png?v=1661081039894">
+  <img src="src/preview.png">
 </div>
 <br>
 
